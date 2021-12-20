@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on: Just ask me 
 
-- 📫 How to reach me:
+- 📫 How to reach me:  
 Email: viktorseidl@gmail.com  
 Discord: itsnando#9592  
 Telegram: @itsnandodotcom  
