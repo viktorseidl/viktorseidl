@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Blockchain, React, Nodejs, PHP React Native, C#, C and Python
 
-- 🌱 I’m currently learning Solidity, Ride, Blender and Unity
+- 🌱 I’m currently learning Ride, Blender and Unity
 
 - 💞️ I’m looking to collaborate on: Just ask me 
 
