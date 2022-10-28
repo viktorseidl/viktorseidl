@@ -9,7 +9,10 @@
 - 📫 How to reach me:  
 Email: viktorseidl@gmail.com  
 Discord: itsnando#9592  
-Telegram: @itsnandodotcom  
+Telegram: @itsnandodotcom
+Contributor of:
+https://www.nftismus.xyz
+Personal Page:
 https://www.itsnando.com  
 
 <!---
