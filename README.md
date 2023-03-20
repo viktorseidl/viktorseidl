@@ -12,7 +12,7 @@ Discord: itsnando#9592
 Telegram: @itsnandodotcom <br>
 Contributor of:<br>
 https://www.nftismus.xyz<br>
-Personal Page:<br>
+Developement Page:<br>
 https://www.itsnando.com<br>  
 
 <!---
