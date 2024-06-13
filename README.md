@@ -1,6 +1,6 @@
 
 ![Viktors's github stats](https://github-readme-stats.vercel.app/api?username=viktorseidl&show_icons=true&theme=vision-friendly-dark&rank_icon=github) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorseidl&langs_count=8&layout=donout&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorseidl&langs_count=8&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 - 👋 Hi, I’m Fernando (@viktorseidl)
 
 - 👀 I’m interested in Blockchain, React, Nodejs, PHP React Native, C#, C and Python
