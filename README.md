@@ -1,7 +1,7 @@
 
 ![Viktors's github stats](https://github-readme-stats.vercel.app/api?username=viktorseidl&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorseidl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Fernando (@viktorseidl)
 
 - 👀 I’m interested in Blockchain, React, Nodejs, PHP React Native, C#, C and Python
