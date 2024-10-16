@@ -17,7 +17,10 @@ Contributor of:<br>
 https://www.nftismus.xyz<br>
 Developement Page:<br>
 https://www.itsnando.com<br>  
-
+Personal Data Privacy Project Page (in developement):<br>
+https://www.intelliblocksecure.de<br>
+DS-Timeshift (Timetracking Cloud Application)<br>
+https://timeshift.data-schafhausen.com/u/DATA_Schafhausen
 <!---
 viktorseidl/viktorseidl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
