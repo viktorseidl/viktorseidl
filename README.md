@@ -15,6 +15,8 @@ Discord: itsnando#9592
 Telegram: @itsnandodotcom <br>
 Contributor of:<br>
 https://www.nftismus.xyz<br>
+Contributor of:<br>
+https://www.dexpo.space<br>
 Developement Page:<br>
 https://www.itsnando.com<br>  
 Personal Data Privacy Project Page (in developement):<br>
