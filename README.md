@@ -18,9 +18,7 @@ https://www.nftismus.xyz<br>
 Contributor of:<br>
 https://www.dexpo.space<br>
 Developement Page:<br>
-https://www.itsnando.com<br>  
-Personal Data Privacy Project Page (in developement):<br>
-https://www.intelliblocksecure.de<br>
+https://www.itsnando.com<br>   
 DS-Timeshift (Timetracking Cloud Application)<br>
 https://timeshift.data-schafhausen.com/u/DATA_Schafhausen
 <!---
