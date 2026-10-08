@@ -57,4 +57,6 @@ fernando — building on the shell, deploying to the world.
 
 ---
 
-<p align="center"> <i>"Linux is only free if your time has no value." – Jamie Zawinski</i><br> <i>"On Linux, everything is a file — including your problems. Solve them with a pipe." 🐧</i><br> <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i> </p>
+<p align="center"> <i>"Linux is only free if your time has no value." – Jamie Zawinski</i><br> <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i> </p>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
