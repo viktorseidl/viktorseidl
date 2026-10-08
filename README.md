@@ -48,6 +48,8 @@ Whether it's blockchain, AI, mobile, or full-stack web: if it's technically inte
 
 ### 🐧 Environment
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ```bash
 $ uname -a
 Linux  ·  20+ years of experience  ·  daily driver since day one
@@ -59,4 +61,4 @@ fernando — building on the shell, deploying to the world.
 
 <p align="center"> <i>"Linux is only free if your time has no value." – Jamie Zawinski</i><br> <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i> </p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
