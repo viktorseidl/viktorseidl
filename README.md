@@ -46,6 +46,15 @@ Whether it's blockchain, AI, mobile, or full-stack web: if it's technically inte
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+### 🐧 Environment
+
+```bash
+$ uname -a
+Linux  ·  20+ years of experience  ·  daily driver since day one
+$ whoami
+fernando — building on the shell, deploying to the world.
+```
+
+---
+
+<p align="center"> <i>"Linux is only free if your time has no value." – Jamie Zawinski</i><br> <i>"On Linux, everything is a file — including your problems. Solve them with a pipe." 🐧</i><br> <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i> </p>
