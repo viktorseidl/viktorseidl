@@ -22,14 +22,6 @@ I've been building software for **over 20 years** – from low-level and embedde
 
 ---
 
-### 🌱 Currently Learning
-
-- **Ride** (smart contract language for Waves)
-- **Blender** (3D modeling & animation)
-- **Unity** (game & app development)
-
----
-
 ### 💞️ Collaboration
 
 I'm open to exciting projects – **just ask me!**  
